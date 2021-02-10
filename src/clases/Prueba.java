@@ -15,6 +15,7 @@ public class Prueba {
 		
 		System.out.println(prueba2.getNombre());
 	
+		String aux ="";
 		
 		
 	}
